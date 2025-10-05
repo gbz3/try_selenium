@@ -48,5 +48,10 @@ $
 ### Google Chrome On WSL2-ARM
 
 ```
+$ sudo apt install google-chrome-stable
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package google-chrome-stable
 $ 
 ```
