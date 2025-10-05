@@ -44,3 +44,9 @@ $ mvn test
 ...
 $ 
 ```
+
+### Google Chrome On WSL2-ARM
+
+```
+$ 
+```
